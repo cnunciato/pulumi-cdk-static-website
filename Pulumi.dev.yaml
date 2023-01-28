@@ -1,0 +1,5 @@
+config:
+  aws-native:region: us-west-2
+  pulumi-cdk-static-website:path: www
+  pulumi-cdk-static-website:indexDocument: index.html
+  pulumi-cdk-static-website:errorDocument: error.html
